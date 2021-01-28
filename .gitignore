@@ -11,3 +11,6 @@ target/
 # gradle
 .gradle/
 build/
+.classpath
+.project
+*.class
